@@ -1,0 +1,5 @@
+C:\Users\holy crap it's a sp1\Documents\Visual Studio 2008\Projects\Downloader\Downloader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\holy crap it's a sp1\Documents\Visual Studio 2008\Projects\Downloader\Downloader\bin\Debug\Downloader.exe
+C:\Users\holy crap it's a sp1\Documents\Visual Studio 2008\Projects\Downloader\Downloader\bin\Debug\Downloader.pdb
+C:\Users\holy crap it's a sp1\Documents\Visual Studio 2008\Projects\Downloader\Downloader\obj\Debug\Downloader.exe
+C:\Users\holy crap it's a sp1\Documents\Visual Studio 2008\Projects\Downloader\Downloader\obj\Debug\Downloader.pdb
